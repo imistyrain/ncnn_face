@@ -7,6 +7,8 @@
 
 ## 使用方法
 
+下载转换好的模型，地址[releases](https://github.com/imistyrain/ncnn_face/releases)
+
 编译并安装ncnn库，步骤参见[how to build ncnn library](https://github.com/Tencent/ncnn/wiki/how-to-build)
 
 ### Windows

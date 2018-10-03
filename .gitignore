@@ -3,3 +3,4 @@ build/
 Windows/x64
 *.param
 *.bin
+*.zip
